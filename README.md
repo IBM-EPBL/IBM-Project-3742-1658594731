@@ -1,4 +1,4 @@
-![image]([https://medicaldialogues.in/h-upload/2020/09/18/134673-parkinsons-disease.webp](https://www.istockphoto.com/vector/parkinsons-disease-cartoon-gm917441480-252401011))
+![image](https://cdn2.vectorstock.com/i/1000x1000/40/01/parkinsons-disease-cartoon-vector-19754001.jpg)
 # IBM-Project-3742-1658594731
 Detecting Parkinson’s Disease using Machine Learning
 <b>Team ID:</b> PNT2022TMID08567 <br>
