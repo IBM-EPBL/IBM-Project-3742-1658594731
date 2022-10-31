@@ -1,4 +1,4 @@
-https://medicaldialogues.in/h-upload/2020/09/18/134673-parkinsons-disease.webp
+![image](https://medicaldialogues.in/h-upload/2020/09/18/134673-parkinsons-disease.webp)
 # IBM-Project-3742-1658594731
 Detecting Parkinson’s Disease using Machine Learning
 <b>Team ID:</b> PNT2022TMID08567 <br>
