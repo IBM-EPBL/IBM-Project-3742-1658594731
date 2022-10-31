@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedicaldialogues.in%2Fcardiology-ctvs%2Fnews%2Fheart-attack-survivors-may-be-less-likely-to-develop-parkinsons-disease-88726&psig=AOvVaw2ydpe3A-09a0qGkF4r5aey&ust=1667297491003000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjH7qmdivsCFQAAAAAdAAAAABAs
+https://medicaldialogues.in/h-upload/2020/09/18/134673-parkinsons-disease.webp
 # IBM-Project-3742-1658594731
 Detecting Parkinson’s Disease using Machine Learning
 <b>Team ID:</b> PNT2022TMID08567 <br>
